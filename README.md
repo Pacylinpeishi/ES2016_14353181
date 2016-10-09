@@ -14,7 +14,7 @@
 
 $ sudo apt-get update
 
-![1.png](https://thumbnail0.baidupcs.com/thumbnail/2abc25e629096f12f9001c37e90feb21?fid=2694813189-250528-912859221125151&time=1475992800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-5CoPE5UyNmBsWn3AmPzm7DIInl0%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=6554618810637573447&dp-callid=0&size=c710_u400&quality=100)
+![1.png](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/1.png?raw=true)
 
 $ sudo apt-get install ant
 
