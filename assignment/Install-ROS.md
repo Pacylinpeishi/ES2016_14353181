@@ -18,7 +18,7 @@ ROS（Robot operation system），机器人操作系统，是开源的，是用�
 
 Configure your Ubuntu repositories to allow "restricted"， "universe" and "multiverse".
 
-![1.PNG]("https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/1.PNG?raw=true")
+![1.PNG](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/1.PNG?raw=true)
 
 #####2. Setup your sources.list
 
@@ -30,7 +30,7 @@ Setup your computer to accept software from packages.ros.org. ROS Jade ONLY supp
 
 ######$ sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key 0xB01FA116
 
-![2.PNG]("https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/2.PNG?raw=true")
+![2.PNG](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/2.PNG?raw=true)
 
 #####4. Installation
 
@@ -48,13 +48,13 @@ Desktop Install: ROS, rqt, rviz, and robot-generic libraries
 
 ######$ sudo apt-get install ros-jade-desktop
 
-![3.PNG]("https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/3.PNG?raw=true")
+![3.PNG](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/3.PNG?raw=true)
 
 ROS-Base: (Bare Bones) ROS package, build, and communication libraries. No GUI tools.
 
 ######$ sudo apt-get install ros-jade-ros-base
 
-![4.PNG]("https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/4.PNG?raw=true")
+![4.PNG](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/4.PNG?raw=true)
 
 Individual Package: You can also install a specific ROS package (replace underscores with dashes of the package name):
 
@@ -74,11 +74,11 @@ Before you can use ROS, you will need to initialize rosdep. rosdep enables you t
 
 ######$ sudo rosdep init
 
-![5.PNG]("https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/5.PNG?raw=true")
+![5.PNG](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/5.PNG?raw=true)
 
 ######$ rosdep update
 
-![6.PNG]("https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/6.PNG?raw=true")
+![6.PNG](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/6.PNG?raw=true)
 
 #####6. Environment setup
 
