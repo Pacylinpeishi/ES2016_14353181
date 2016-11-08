@@ -38,7 +38,7 @@ First, make sure your Debian package index is up-to-date:
 
 ######$ sudo apt-get update
 
-![3.PNG]()
+![3.PNG](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/3.PNG?raw=true)
 
 There are many different libraries and tools in ROS. We provided four default configurations to get you started. You can also install ROS packages individually. 
 
@@ -46,19 +46,19 @@ Desktop-Full Install: (Recommended) : ROS, rqt, rviz, robot-generic libraries, 2
 
 ######$ sudo apt-get install ros-jade-desktop-full
 
-![4.PNG]()
+![4.PNG](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/4.PNG?raw=true)
 
 Desktop Install: ROS, rqt, rviz, and robot-generic libraries 
 
 ######$ sudo apt-get install ros-jade-desktop
 
-![5.PNG]()
+![5.PNG](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/5.PNG?raw=true)
 
 ROS-Base: (Bare Bones) ROS package, build, and communication libraries. No GUI tools.
 
 ######$ sudo apt-get install ros-jade-ros-base
 
-![6.PNG]()
+![6.PNG](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/6.PNG?raw=true)
 
 Individual Package: You can also install a specific ROS package (replace underscores with dashes of the package name):
 
@@ -68,7 +68,7 @@ e.g.
 
 ######$ sudo apt-get install ros-jade-slam-gmapping
 
-![7.PNG]()
+![7.PNG](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/7.PNG?raw=true)
 
 #####5. Initialize rosdep
 
@@ -76,11 +76,11 @@ Before you can use ROS, you will need to initialize rosdep. rosdep enables you t
 
 ######$ sudo rosdep init
 
-![8.PNG](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/5.PNG?raw=true)
+![8.PNG](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/8.PNG?raw=true)
 
 ######$ rosdep update
 
-![9.PNG](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/6.PNG?raw=true)
+![9.PNG](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/9.PNG?raw=true)
 
 #####6. Environment setup
 
@@ -104,7 +104,7 @@ To install this tool on Ubuntu, run:
 
 ######$ sudo apt-get install python-rosinstall
 
-![10.PNG]()
+![10.PNG](https://github.com/Pacylinpeishi/ES2016_14353181/blob/master/lab5_image/10.PNG?raw=true)
 
 
 
